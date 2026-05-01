@@ -1,3 +1,4 @@
+//brute force approach
 #include<iostream>
 #include<vector>
 #include<climits>
