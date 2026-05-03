@@ -15,7 +15,7 @@ f(n) = n <=> O(n)
 /*
 
 Big O Notation : 
-
+o(g(n)) = { f(n) : there exist positive constant C and n0 such that 0<=f(n)<=cg(n), n>=n0}
 O(n) 
 => worst case scenario/complexity
 => upper bound
@@ -35,10 +35,31 @@ eg: f(n)= 4n^2 + 3^n + 5, n=10^5
 
 /*
 
-Worst case : O (upper bound)  **
+Rate of growth => The rate at which the running time increases as the function of input is called Rate of Growth.
+
+*/
+
+
+
+/*
+
+Worst case : O (upper bound) => slowest time to complete **
 
 average case : 0 
 
-best case : Ω (lower bound)
+best case : Ω (lower bound) => fastest time to complete
+
+*/
+
+
+
+
+/*
+
+
+Ω - Q notation : lower bound function
+
+Ω(g(n)) = { f(n) : there exist positive constant C and n0 such that 0<=c(g(n))<= f(n), n >= n0 }
+
 
 */
