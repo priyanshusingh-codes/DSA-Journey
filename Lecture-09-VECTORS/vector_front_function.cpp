@@ -1,5 +1,5 @@
 #include<iostream>
-#include<vector>means you are importing the C++ Standard Library vector container.
+#include<vector>//means you are importing the C++ Standard Library vector container.
 using namespace std;
 int main()
 {
