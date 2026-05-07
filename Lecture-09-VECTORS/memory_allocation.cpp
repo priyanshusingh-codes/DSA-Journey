@@ -29,6 +29,9 @@ Dynamic Memory Allocation => Dynamic memory allocation means memory is allocated
 Example :
 vector<int>vec;
 
+
+
+
 Key Features
 1. Allocated at Runtime => Memory requested while program runs.
 
