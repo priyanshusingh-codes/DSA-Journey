@@ -1,6 +1,6 @@
 #include <iostream>
-#include <climits>
-#include <algorithm>
+#include <climits>//for INT_MAX
+#include <algorithm>//for smallest function
 using namespace std;
 int main()
 {
