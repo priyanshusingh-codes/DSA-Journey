@@ -27,7 +27,6 @@ Each element in the array appears twice except for one element which appears onl
 */
 
 //Code
-
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
