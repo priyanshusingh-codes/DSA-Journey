@@ -1,9 +1,9 @@
 #include<iostream>
-#include<vector>means you are importing the C++ Standard Library vector container.
+#include<vector>//means you are importing the C++ Standard Library vector container.
 using namespace std;
 int main()
 {
-    vector<int>vec(5,0); // 5 is size of vector and o is index value for eachh vector
+    vector<int>vec(5,0); // 5 is size of vector and 0 is index value for eachh vector
     cout << vec [0] << endl;
     cout << vec [1] << endl;
     cout << vec [2] << endl;
