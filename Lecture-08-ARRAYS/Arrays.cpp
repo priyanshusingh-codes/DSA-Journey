@@ -1,4 +1,7 @@
 //An array is a collection of elements of the same type stored in continuous memory locations
+
+
+
 /*
 
 Data Structure => linear and Hirarchial
